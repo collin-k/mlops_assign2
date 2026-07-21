@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/collinkim/Documents/UChicago ADS/Summer 2026/MLOps/Assignments/mlops_assign2/mlruns/320126180167928650/b3a790733c2042429c182066ceed60df/artifacts
+end_time: 1784670120233
+entry_point_name: ''
+experiment_id: '320126180167928650'
+lifecycle_stage: active
+run_id: b3a790733c2042429c182066ceed60df
+run_name: v1_deep
+run_uuid: b3a790733c2042429c182066ceed60df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784670116845
+status: 3
+tags: []
+user_id: collinkim
