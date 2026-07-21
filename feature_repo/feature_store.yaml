@@ -1,0 +1,9 @@
+project: athlete_feature_store
+provider: local
+registry: data/registry.db
+online_store:
+    path: data/online_store.db
+    type: sqlite
+offline_store:
+    type: file
+entity_key_serialization_version: 2
