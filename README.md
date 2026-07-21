@@ -3,7 +3,7 @@
 A reproducible, end-to-end ML pipeline that predicts an athlete's `total_lift`
 (sum of deadlift, clean-and-jerk, snatch, and back squat) from the
 `athletes.csv` dataset. The project integrates feature management, experiment 
-tracking, versioning, and model evaluation.
+tracking, versioning, and model evaluation. All local/.git-ignored files and folders have been pushed to the repo for evidence of work.
 
 ## Stack
 
